@@ -10,6 +10,10 @@
         android:layout_width="match_parent"
         android:layout_height="110dp"
         android:layout_weight="1"
+        android:paddingLeft="2dp"
+        android:paddingTop="5dp"
+        android:paddingRight="5dp"
+        android:paddingBottom="8dp"
         app:srcCompat="@drawable/operaho_icon" />
 
     <TextView
@@ -29,7 +33,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="1"
-        android:paddingLeft="16dp"
+        android:paddingLeft="10dp"
         android:paddingTop="7dp"
         android:paddingRight="5dp"
         android:paddingBottom="5dp"
